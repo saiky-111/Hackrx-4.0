@@ -1,0 +1,56 @@
+Previous Year PITCH DECK Template: https://filetransfer.io/data-package/eA2CXjJ8#link
+
+
+
+                                            GENERATIVE AI | HEALTHBOT
+                                                
+                                                  PROCESS FLOW:
+
+
+Process flow for our Chatbot platform:(We have to convert this into a FLOW DIAGRAM as shown in the above template)
+
+    1. User interacts with the Chatbot:
+        -User initiates a conversation with the Chatbot by asking a medical query or expressing a health concern.
+        -The Chatbot welcomes the user and prompts them to provide more details about their query.
+
+    2. Information gathering and query analysis:
+        -The Chatbot collects relevant information from the user, such as symptoms, medical history, or specific concerns.
+        -It analyzes the user's query to understand the context and determine the appropriate response.
+
+    3. Knowledgebase integration:
+        -The Chatbot platform seamlessly integrates with reputed knowledgebase sources, such as the Mayo Clinic website and WebMD, as well as authenticated databases.
+        -The Chatbot retrieves relevant information from these sources based on the user's query and context.
+
+    4. Response generation:
+        -Using the retrieved information, the Chatbot generates accurate and relevant responses to address the user's query.
+        -It ensures that the responses are trustworthy, as they originate from reputable sources like Mayo Clinic and WebMD.
+
+    5. Corona self-checker module:
+        -If the user's query or symptoms indicate a potential risk related to COVID-19, the Chatbot can provide a link or prompt the user to access the corona self-checker module.
+        -The self-checker module guides the user through a series of questions to assess their risk level and provides recommendations based on their responses.
+
+    6. Corona test booking module:
+        -If the user's risk level indicates the need for a COVID-19 test, the Chatbot can offer the option to book a test.
+        -It can provide information about testing centers, availability, and booking procedures.
+        -The Chatbot may integrate with a test booking module to facilitate the process of scheduling appointments for the user.
+
+    7. Configurable options:
+        -The Chatbot platform should provide configurable options that allow users to enable or disable specific knowledgebase sources based on their preferences.
+        -Users can customize the Chatbot's behavior by choosing the sources they trust or prefer to obtain information from.
+
+    8. User feedback and continuous improvement:
+        -The Chatbot platform includes a mechanism to collect user feedback.
+        -Users can provide feedback on the accuracy and relevance of the responses, usability of the interface, and overall experience.
+        -Feedback is analyzed to identify areas for improvement and implement updates or enhancements to the Chatbot's performance.
+
+    9. User interface (UI) and user experience (UX):
+        -The Chatbot platform is designed with a user-friendly interface and an engaging user experience.
+        -The UI should be intuitive, visually appealing, and guide users through the conversation smoothly.
+
+    10. Backend data pipeline:
+        -The Chatbot's backend data pipeline is optimized to efficiently handle data retrieval, processing, and delivery of responses.
+        -It ensures fast and accurate retrieval of information from the integrated knowledgebase sources and authenticated databases.
+
+    11. Scalability and cost considerations:
+        -The Chatbot platform is designed to be scalable to accommodate a large number of end users.
+        -Cost-effectiveness is taken into account when considering the infrastructure and maintenance requirements for serving a large user base.
